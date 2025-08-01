@@ -93,3 +93,5 @@ if openrouter_key:
                 st.markdown(result)
             except Exception as e:
                 st.error(f"❌ Failed to generate report: {e}")
+print("hello")
+print("Harsh mkc")
