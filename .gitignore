@@ -1,0 +1,9 @@
+# Ignore the folder containing the API key
+.streamlit/
+
+# Ignore Python-specific files
+__pycache__/
+*.pyc
+
+# Ignore Streamlit's local cache
+.streamlit/
